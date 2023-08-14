@@ -8,3 +8,6 @@
 
 # selfimg
 ![selfimg](https://github.com/Codewithvarsil/Portfolio/assets/139484836/75d28d1d-8d5c-4252-a0c0-e2ad80f8c5b4)
+
+# resume.pdf
+[resume.pdf](https://github.com/Codewithvarsil/Portfolio/files/12331603/resume.pdf)
